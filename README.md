@@ -198,15 +198,174 @@ Aspiring Full-Stack & AI Engineer | Java Developer | Cloud Enthusiast
 
 # 🚀 Featured Projects
 
-📌 Smart Energy Meter for Accurate Billing and Immediate Tamper Detection
+<table>
+<tr>
+<td width="50%">
 
-📌 Contextual Cyberbullying Detection using DeBERTa and LSTM
+### 🤖 AI Resume Analyzer
+An AI-powered resume analyzer that evaluates resumes, improves ATS compatibility, and provides actionable suggestions.
 
-📌 DSA in Java
+**Tech Stack**
+- Python
+- Streamlit
+- NLP
+- Machine Learning
 
-📌 Java Programming Practice
+</td>
 
-📌 Full-Stack Development Projects *(Coming Soon)*
+<td width="50%">
+
+### 📊 A/B Test Analysis
+A statistical data analytics project that performs hypothesis testing and visualizes experiment results for business insights.
+
+**Tech Stack**
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Smart Energy Meter
+An IoT-based smart energy meter for accurate billing, real-time monitoring, and immediate tamper detection.
+
+**Tech Stack**
+- Arduino UNO
+- PZEM-004T
+- GSM Module
+- IoT
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Contextual Cyberbullying Detection
+A hybrid deep learning model using DeBERTa and LSTM to detect cyberbullying in text.
+
+**Tech Stack**
+- Python
+- DeBERTa
+- LSTM
+- NLP
+- Gradio
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 DSA in Java
+Collection of optimized Java solutions for LeetCode and coding interview problems.
+
+**Tech Stack**
+- Java
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full-Stack Projects
+Building responsive full-stack web applications with AI integration.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- React *(Learning)*
+- Node.js *(Learning)*
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏅 Certifications
+
+🏆 Google Cloud Certified Associate Cloud Engineer
+
+☁️ AWS Cloud Practitioner Essentials
+
+🎓 HarvardX – CS109x: Introduction to Data Science with Python
+
+🌐 Cisco Networking Academy Certifications
+
+🤖 Microsoft Learn – Azure AI & Cloud Learning Paths
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhyapulivarthi&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sandhyapulivarthi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhyapulivarthi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sandhyapulivarthi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sandhyapulivarthi&theme=algolia&margin-w=10&margin-h=10&column=4"/>
+</p>
+
+---
+
+# 💼 Career Interests
+
+- 💻 Software Engineering
+- 🌐 Full-Stack Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 📊 Data Analytics
+- 🚀 Open Source Contributions
+
+---
+
+# 📌 Current Goals
+
+✔ Master Data Structures & Algorithms
+
+✔ Become a Full-Stack Developer
+
+✔ Build AI-powered Applications
+
+✔ Contribute to Open Source
+
+✔ Crack Product-Based Company Interviews
+
+---
+
+<h3 align="center">
+
+💙 Thanks for visiting my profile! Let's build something amazing together. 🚀
+
+</h3>
 
 ---
 
