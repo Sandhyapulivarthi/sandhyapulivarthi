@@ -1,27 +1,22 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋 I'm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=Sandhya+Pulivarthi;Aspiring+Software+Engineer;Full-Stack+%26+AI+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&height=80&lines=Sandhya+Pulivarthi;Aspiring+Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Cloud+Computing+Learner"/>
 </p>
 
 <h3 align="center">
-Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
+Full-Stack Developer • AI Enthusiast • Java Programmer • Cloud Learner
 </h3>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Sandhyapulivarthi&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Sandhyapulivarthi?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Sandhyapulivarthi?affiliations=OWNER&style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Open%20To-Internships-blue?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sandhyapulivarthi&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -29,30 +24,32 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student**  
+**Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC)**
 
-💙 Passionate about building scalable software, AI-powered applications, and modern web solutions.
+💙 Passionate about **Full-Stack Development, Artificial Intelligence, Cloud Computing, and Software Engineering.**
 
-🌱 Currently learning
+🌱 **Currently Learning**
 
 - Data Structures & Algorithms
 - Java
-- Full-Stack Development
-- Artificial Intelligence
+- Full-Stack Development (MERN)
+- Artificial Intelligence & Machine Learning
 - Cloud Computing
+- System Design
 
-💬 Ask me about
+💬 **Ask Me About**
 
 - Java
 - Python
-- DSA
+- Data Structures & Algorithms
 - DBMS
 - Operating Systems
 - Computer Networks
-- AI
+- Artificial Intelligence
 - Cloud Computing
 
-📫 **Email**
+📫 **Reach me at**
 
 **sandhyapulivarthi6@gmail.com**
 
@@ -60,30 +57,34 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/Sandhyapulivarthi">
+<a href="https://github.com/Sandhyapulivarthi" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sandhya-pulivarthi/">
+<a href="https://www.linkedin.com/in/sandhya-pulivarthi/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.kaggle.com/sandhyapulivarthi">
+<a href="https://www.kaggle.com/sandhyapulivarthi" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="42"/>
 </a>
 
-<a href="https://www.hackerrank.com/sandhya@2005">
+<a href="https://www.hackerrank.com/sandhya@2005" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="42"/>
 </a>
 
-<a href="https://leetcode.com/u/sandhya_pulivarthi/">
+<a href="https://leetcode.com/u/sandhya_pulivarthi/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/sandhyapulauep/">
+<a href="https://www.geeksforgeeks.org/profile/sandhyapulauep/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="42"/>
+</a>
+
+<a href="https://www.topcoder.com/members/521126" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="42"/>
 </a>
 
 </p>
@@ -94,7 +95,7 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
 </p>
 
 ---
@@ -105,7 +106,7 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark"/>
 </p>
 
-> 🚀 Currently learning **React**
+> 🚀 **Currently Learning:** React.js
 
 ---
 
@@ -115,17 +116,17 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-> 🚀 Currently learning **Node.js & Express**
+> 🚀 **Currently Learning:** Node.js & Express.js
 
 ---
 
-## 🛢️ Databases
+## 🗄️ Databases
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
 
 </p>
 
@@ -135,13 +136,11 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
 
 </p>
 
@@ -150,17 +149,21 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 ## ☁️ Cloud Platforms
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark"/>
+
 </p>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/>
+
 </p>
 
 ---
@@ -168,45 +171,51 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 # 🎯 Current Focus
 
 - 🚀 Mastering Data Structures & Algorithms
-- 🌐 Becoming a Full-Stack Developer
-- 🤖 Building AI-powered Applications
-- ☁️ Exploring AWS, Azure & Google Cloud
+- 🌐 Building Full-Stack Web Applications
+- 🤖 Developing AI & Machine Learning Projects
+- ☁️ Learning Cloud Technologies (AWS • Azure • Google Cloud)
 - 💻 Solving LeetCode Problems Daily
-- 📚 Preparing for Product-Based Company Interviews
+- 📚 Preparing for Product-Based Company Placements
 
 ---
 
 # 🏆 Certifications
 
-### ☁️ Cloud
+## ☁️ Cloud
 
 - ✅ Google Cloud Certified Associate Cloud Engineer
 - ✅ AWS Cloud Practitioner Essentials
 - ✅ Microsoft Learn – Azure Fundamentals
-- ✅ Microsoft Learn – Azure AI Learning Paths
+- ✅ Microsoft Learn – Azure AI Fundamentals
 
-### 🤖 Artificial Intelligence
+---
 
-- ✅ Microsoft Azure AI Fundamentals
-- ✅ AI Builder
+## 🤖 Artificial Intelligence
+
+- ✅ Azure AI Fundamentals
 - ✅ Computer Vision
 - ✅ Natural Language Processing
+- ✅ AI Builder
 - ✅ Document Intelligence
 - ✅ Knowledge Mining
 
-### 🌐 Cisco Networking Academy
+---
+
+## 🌐 Cisco Networking Academy
 
 - ✅ Ethical Hacker
 - ✅ Python Essentials 1
+- ✅ Linux Essentials
 - ✅ Introduction to Cybersecurity
 - ✅ Cybersecurity Essentials
-- ✅ Linux Essentials
 - ✅ Introduction to IoT
 - ✅ CCNA – Introduction to Networks
 
-### 🎓 Others
+---
 
-- ✅ HarvardX – CS109x Introduction to Data Science with Python
+## 🎓 Other Certifications
+
+- ✅ HarvardX – CS109x: Introduction to Data Science with Python
 
 ---
 
@@ -214,7 +223,7 @@ Java Developer • Full-Stack Developer • AI Enthusiast • Cloud Computing
 
 ## 🤖 AI Resume Analyzer
 
-📌 AI-powered Resume Analyzer that evaluates resumes, improves ATS compatibility, and provides personalized recommendations.
+AI-powered Resume Analyzer that evaluates resumes, improves ATS compatibility, and provides intelligent suggestions.
 
 **Tech Stack**
 
@@ -224,52 +233,52 @@ Python • Streamlit • NLP • Machine Learning
 
 ## 📊 A/B Test Analysis
 
-📌 Statistical A/B Testing project for analyzing experiments and making data-driven decisions.
+A statistical data analytics project that performs hypothesis testing and visualizes experiment results.
 
 **Tech Stack**
 
-Python • Pandas • NumPy • Matplotlib • SciPy
+Python • Pandas • NumPy • SciPy • Matplotlib
 
 ---
 
-## ⚡ Smart Energy Meter
+## ⚡ Smart Energy Meter for Accurate Billing & Tamper Detection
 
-📌 IoT-based Smart Energy Meter for Accurate Billing & Immediate Tamper Detection.
+IoT-based Smart Energy Meter with real-time monitoring and immediate tamper detection.
 
 **Tech Stack**
 
-Arduino • GSM Module • PZEM-004T • IoT
+Arduino • PZEM-004T • GSM Module • IoT
 
 ---
 
-## 🛡️ Cyberbullying Detection
+## 🛡️ Contextual Cyberbullying Detection
 
-📌 Contextual Cyberbullying Detection using DeBERTa and LSTM.
+Deep Learning model using DeBERTa + LSTM for contextual cyberbullying detection.
 
 **Tech Stack**
 
-Python • NLP • DeBERTa • LSTM • Gradio
+Python • DeBERTa • LSTM • NLP • Gradio
 
 ---
 
 ## 💻 DSA in Java
 
-📌 Optimized Java solutions for Data Structures & Algorithms.
+Collection of optimized Java solutions for Data Structures & Algorithms.
 
 ---
 
-## 🌐 Full-Stack Projects
+## 🌐 Full-Stack Development Projects
 
-📌 Modern Full-Stack Applications *(Coming Soon)*
+Modern Full-Stack Web Applications *(Coming Soon)*
 
 ---
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandhyapulivarthi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandhyapulivarthi&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhyapulivarthi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhyapulivarthi&layout=compact&theme=github_dark&hide_border=true&border_radius=15"/>
 
 </p>
 
@@ -279,7 +288,7 @@ Python • NLP • DeBERTa • LSTM • Gradio
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sandhyapulivarthi&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=Sandhyapulivarthi&theme=github-dark-blue&hide_border=true&border_radius=15"/>
 
 </p>
 
@@ -299,41 +308,32 @@ Python • NLP • DeBERTa • LSTM • Gradio
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhyapulivarthi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhyapulivarthi&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💼 Career Goals
+# 🏅 Achievements
 
-🎯 Become a Software Engineer at a Product-Based Company
-
-🎯 Master Data Structures & Algorithms
-
-🎯 Build AI-Powered Applications
-
-🎯 Become a Full-Stack Developer
-
-🎯 Contribute to Open Source Projects
-
-🎯 Continuously Learn New Technologies
+- 🏆 Google Cloud Certified Associate Cloud Engineer
+- ☁️ AWS Cloud Practitioner Essentials
+- 🎓 HarvardX – CS109x: Introduction to Data Science with Python
+- 🌐 Cisco Networking Academy Certifications
+- 🤖 Microsoft Learn – 80+ Badges & 15+ Trophies
+- 💻 Built AI, IoT & Data Analytics Projects
+- 📚 Actively solving DSA problems and preparing for Software Engineering roles
 
 ---
 
-# 📌 Achievements
+# 🎯 Career Goals
 
-🏅 Google Cloud Certified Associate Cloud Engineer
-
-🏅 AWS Cloud Practitioner Essentials
-
-🏅 Microsoft Learn – 80+ Badges & 15+ Trophies
-
-🏅 Cisco Networking Academy Certifications
-
-🏅 HarvardX Data Science Certification
-
-🏅 Multiple AI, Cloud & Cybersecurity Learning Paths
+- 🚀 Become a Software Engineer at a Product-Based Company
+- 💻 Build scalable Full-Stack Applications
+- 🤖 Develop AI-powered solutions
+- ☁️ Gain expertise in Cloud Computing
+- 🌍 Contribute to Open Source Projects
+- 📈 Continuously improve problem-solving skills
 
 ---
 
@@ -341,9 +341,10 @@ Python • NLP • DeBERTa • LSTM • Gradio
 
 - 🤖 Generative AI
 - 🧠 Large Language Models (LLMs)
-- 🌐 MERN Stack
+- 🌐 MERN Stack Development
 - ☁️ Cloud-Native Applications
-- ⚡ System Design Fundamentals
+- ⚙️ System Design
+- 🔐 Secure Software Development
 
 ---
 
@@ -367,28 +368,26 @@ Python • NLP • DeBERTa • LSTM • Gradio
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-> **"Success is built one commit, one project, and one lesson at a time."**
+<a href="https://github.com/Sandhyapulivarthi">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
+# 💡 Quote
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=120&section=footer"/>
+> **"Code. Learn. Build. Repeat."**
 
 </p>
 
-<h3 align="center">
+---
 
-⭐ Thanks for visiting my profile! ⭐
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
-</h3>
+<p align="center">
+Made with ❤️ by <b>Sandhya Pulivarthi</b>
+</p>
