@@ -140,61 +140,7 @@ Aspiring Full-Stack & AI Engineer | Java Developer | Cloud Enthusiast
 
 ---
 
-# 🏆 Certifications
 
-✔ Google Cloud Certified Associate Cloud Engineer
-
-✔ AWS Cloud Practitioner Essentials
-
-✔ HarvardX CS109x – Introduction to Data Science with Python
-
-✔ Cisco Networking Academy Certifications
-
-✔ Microsoft Learn AI & Azure Learning Paths
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandhyapulivarthi&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhyapulivarthi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sandhyapulivarthi&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sandhyapulivarthi&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhyapulivarthi&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
