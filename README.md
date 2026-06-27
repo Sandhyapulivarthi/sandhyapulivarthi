@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandhya Pulivarthi</h1>
 <h3 align="center">Aspiring Full-Stack & AI Engineer</h3>
 
-- sandhyapulivarthi6@gmail.com **sandhyapulivarthi6@gmail.com**
+-  **sandhyapulivarthi6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
