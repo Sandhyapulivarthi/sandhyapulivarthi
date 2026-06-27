@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sandhya Pulivarthi</h1>
-
-<h3 align="center">
-Aspiring Full-Stack & AI Engineer | Java Developer | Cloud Enthusiast
-</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Sandhya%20Pulivarthi&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20%26%20AI%20Engineer&descAlignY=60"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Learner;Java+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Artificial+Intelligence+Enthusiast;Cloud+Computing+Learner;Java+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -85,46 +83,19 @@ Aspiring Full-Stack & AI Engineer | Java Developer | Cloud Enthusiast
 
 # 🚀 Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,git,linux,vscode,aws,azure,gcp&theme=dark"/>
 </p>
 
-### 🌐 Web Development
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
 </p>
-
-### 🛢️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48"/>
-</p>
-
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48"/>
-</p>
-
----
 
 # 🎯 Current Focus
 
@@ -258,30 +229,30 @@ Building responsive full-stack web applications with AI integration.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sandhyapulivarthi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandhyapulivarthi&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhyapulivarthi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhyapulivarthi&layout=compact&theme=github_dark&hide_border=true&border_radius=15"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sandhyapulivarthi&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sandhyapulivarthi&theme=github-dark-blue&hide_border=true&border_radius=15"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sandhyapulivarthi&theme=algolia&margin-w=10&margin-h=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sandhyapulivarthi&theme=onestar&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
-
 ---
-
+# 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhyapulivarthi&theme=github-dark&hide_border=true"/>
+</p>
 # 💼 Career Interests
 
 - 💻 Software Engineering
@@ -307,16 +278,10 @@ Building responsive full-stack web applications with AI integration.
 
 ---
 
-<h3 align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
+</p>
 
-💙 Thanks for visiting my profile! Let's build something amazing together. 🚀
-
-</h3>
 
 ---
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
