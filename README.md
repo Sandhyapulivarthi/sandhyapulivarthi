@@ -1,7 +1,13 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Artificial+Intelligence+Enthusiast;Cloud+Computing+Learner;Java+Developer;Always+Learning+New+Technologies"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
 </p>
+
+<h1 align="center">Hi 👋, I'm Sandhya Pulivarthi</h1>
+
+<h3 align="center">
+Aspiring Full-Stack & AI Engineer | Java Developer | Cloud Enthusiast
+</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sandhyapulivarthi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
