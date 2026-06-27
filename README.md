@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Sandhya%20Pulivarthi&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20%26%20AI%20Engineer&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=Sandhya%20Pulivarthi&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&animation=fadeIn" />
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Artificial+Intelligence+Enthusiast;Cloud+Computing+Learner;Java+Developer;Always+Learning+New+Technologies"/>
 </p>
@@ -279,9 +278,7 @@ Building responsive full-stack web applications with AI integration.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0D1117"/>
 </p>
-
-
 ---
 
